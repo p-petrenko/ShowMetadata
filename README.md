@@ -1,7 +1,7 @@
 # О проекте ShowMetadata
 
-ShowMetadata это проект для получения метаданных из аудиофайла.
+ShowMetadata это проект для получения метаданных из аудио- или видео-файла.
 
 # Использование
 
-./show_metadata --melody_path <путь к файлу>
+./ShowMetadata --melody_path <путь к файлу>
