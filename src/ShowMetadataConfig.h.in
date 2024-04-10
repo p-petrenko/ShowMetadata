@@ -1,0 +1,3 @@
+
+// options and settings for show_metadata
+#define SHOW_METADATA_VERSION "${VERSION}"
